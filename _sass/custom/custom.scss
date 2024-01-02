@@ -20,11 +20,11 @@ a {
 .site-title:hover {
     background: #ebedf5;
 }
-.nav-list-expander:hover, .nav-list .nav-list-item .nav-list-link:hover {
+.nav-list-expander:hover, .nav-list .nav-list-item .nav-list-link:active {
     background: none;
     background-image: none;
 }
-.nav-list .nav-list-item .nav-list-link.active {
+.nav-list .nav-list-item .nav-list-link.hover {
     background: #ebedf5;
     background-image: #ebedf5;
 }
