@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dev Notes
+parent: Dev
 ---
 
 - css属性选择器 #css

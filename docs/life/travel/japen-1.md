@@ -1,6 +1,8 @@
 ---
 layout: default
 tags: [japen, travel]
+parent: Life
+Titile: Japen 1
 ---
 
 # 日本旅行计划

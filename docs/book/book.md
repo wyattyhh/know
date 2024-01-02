@@ -1,7 +1,7 @@
 ---
 layout: default
-title: book
-nav_order: 2
+title: Books
+nav_order: 3
 has_children: true
 permalink: docs/book
 ---

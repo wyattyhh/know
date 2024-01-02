@@ -1,6 +1,8 @@
 
 ---
 layout: default
+title: Git
+parent: Dev
 ---
 ## Commit Style
 feat：新功能（feature）
