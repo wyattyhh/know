@@ -8,7 +8,7 @@ aux_links:
   "know on Github":
     - "https://github.com/wyattyhh/know/tree/main/docs"
 
-repository: wyattyh/know # for github-metadata
+# repository: wyattyh/know # for github-metadata
 
 permalink: pretty
 
