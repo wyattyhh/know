@@ -30,7 +30,6 @@ a {
     background-image: none;
     font-weight: 600;
 }
-.nav-list .nav-list-item .nav-list-link.active {
-    // background: #ebedf5;
-    // background-image: none;
+.nav-list .nav-list-item .nav-list-link.active:hover {
+    background-image: (-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
 }
