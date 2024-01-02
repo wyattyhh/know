@@ -3,3 +3,7 @@ description: This is my public notebook.
 theme: just-the-docs
 
 url: https://wyattyhh.github.io/know/
+
+aux_links:
+  "know on Github":
+    - "https://github.com/wyattyhh/know/tree/main/docs"
