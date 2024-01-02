@@ -1,8 +1,10 @@
+$theme-color: darkslateblue;
+
 a {
-    color: darkslateblue;
+    color: $theme-color;
 }
 .nav-list .nav-list-item .nav-list-expander {
-    color: darkslateblue;
+    color: $theme-color;
 }
 .side-bar {
     background-color: #fff;
@@ -10,4 +12,8 @@ a {
 }
 .site-header {
     border: none;
+    color: $theme-color;
+}
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+    background: #ebedf5;
 }
