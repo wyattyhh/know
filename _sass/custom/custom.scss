@@ -25,7 +25,12 @@ a {
     background-image: none;
     cursor: pointer;
 }
-.nav-list .nav-list-item .nav-list-link.active, .nav-list .nav-list-item .nav-list-link:hover {
+.nav-list .nav-list-item .nav-list-link:hover{
+    background: none;
+    background-image: none;
+    font-weight: 600;
+}
+.nav-list .nav-list-item .nav-list-link.active {
     background: #ebedf5;
     background-image: #ebedf5;
 }
