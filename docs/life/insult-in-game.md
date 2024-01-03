@@ -1,5 +1,4 @@
 ---
-layout: defualt
 title: Insults in Game
 parent: Life
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/insult-in-game.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/insult-in-game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/insult-in-game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/travel/travel.md"
+                "file": "life/insult-in-game.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "16d715fba820c01c",
   "lastOpenFiles": [
-    "life/travel/japen-1.md",
+    "life/life.md",
+    "life/insult-in-game.md",
     "life/travel/travel.md",
+    "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "template/default.md",
-    "life/life.md",
     "book/refactoring.md",
     "book/ydnjs2.md",
     "dev/dev.md",
     "dev/dev-notes.md",
     "dev/git.md",
-    "life/insult-in-game.md",
     "template"
   ]
 }
