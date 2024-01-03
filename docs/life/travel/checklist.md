@@ -2,7 +2,7 @@
 layout: default
 title: Checklist
 nav_order: 1
-parent: Travel
+parent: Life/Travel
 ---
 
 # 
