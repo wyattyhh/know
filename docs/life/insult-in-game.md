@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Insults in Game
 parent: Life
 ---
