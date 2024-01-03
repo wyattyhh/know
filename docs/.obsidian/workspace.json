@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/travel/japen-1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/travel/japen-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/travel/travel.md",
+                "file": "life/travel/japen-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/travel/travel.md"
+                "file": "life/travel/japen-1.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16d715fba820c01c",
+  "active": "7a60d25ebd4c9d70",
   "lastOpenFiles": [
+    "life/travel/travel.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "template/default.md",
@@ -158,7 +159,6 @@
     "dev/dev-notes.md",
     "dev/git.md",
     "life/insult-in-game.md",
-    "life/travel/travel.md",
     "template"
   ]
 }
