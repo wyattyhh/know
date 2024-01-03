@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/git.md",
+                "file": "dev/dev-notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/git.md",
+                "file": "dev/dev-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/git.md",
+                "file": "dev/dev-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/git.md"
+                "file": "dev/dev-notes.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "16d715fba820c01c",
   "lastOpenFiles": [
+    "book/ydnjs2.md",
+    "dev/git.md",
+    "life/travel/japen-1.md",
     "dev/dev-notes.md",
     "dev/dev.md",
     "life/insult-in-game.md",
     "life/travel/travel.md",
     "life/life.md",
-    "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "template/default.md",
     "book/refactoring.md",
-    "book/ydnjs2.md",
-    "dev/git.md",
     "template"
   ]
 }

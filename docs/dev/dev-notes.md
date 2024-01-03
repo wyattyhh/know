@@ -16,7 +16,7 @@ parent: Dev
 	```
 
 - 直接在vue页面使用方法的话每次渲染都会执行一次方法,最好用computed替代. #vue 
-	```js
+	```html
 	<div>{{getSum()}}</div>
 	```
 
