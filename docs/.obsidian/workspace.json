@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/insult-in-game.md",
+                "file": "dev/git.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/insult-in-game.md",
+                "file": "dev/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/insult-in-game.md",
+                "file": "dev/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/insult-in-game.md"
+                "file": "dev/git.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "16d715fba820c01c",
   "lastOpenFiles": [
-    "life/travel/travel.md",
+    "dev/dev-notes.md",
+    "dev/dev.md",
     "life/insult-in-game.md",
+    "life/travel/travel.md",
     "life/life.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "template/default.md",
     "book/refactoring.md",
     "book/ydnjs2.md",
-    "dev/dev.md",
-    "dev/dev-notes.md",
     "dev/git.md",
     "template"
   ]
