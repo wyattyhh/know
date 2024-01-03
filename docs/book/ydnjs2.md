@@ -3,15 +3,17 @@ layout: default
 title: You Don't Know JS Edition 2
 parent: Book
 ---
-**Table of Contents**
 
-1. [Get Started](#get-started)
-	1. [What's in an Interpretation](#whats-in-an-interpretation)
-1. [Scope & Closures](#scope%C2%A0-closures)
-1. [Objects & Classes](#objects--classes)
-1. [Types & Grammar](#types--grammar)
-1. [Sync & Async](#sync--async)
-1. [ES.Next & Beyond](#esnext--beyond)
+# You Don't Know JS Edition 2
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Get Started
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)

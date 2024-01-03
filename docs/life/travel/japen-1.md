@@ -6,6 +6,15 @@ Titile: Japen 1
 ---
 
 # 日本旅行计划
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## 11.11 day1 启程日
 

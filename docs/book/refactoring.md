@@ -4,6 +4,17 @@ title: Refactoring
 parent: Book
 ---
 
+# Refactoring
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## 1.  [Refactoring: A First Example](https://memberservices.informit.com/my_account/webedition/9780135425664/html/opening.html)
 ## 2. [Principles in Refactoring](https://memberservices.informit.com/my_account/webedition/9780135425664/html/principles.html)
 ## 3. [Bad Smells in Code](https://memberservices.informit.com/my_account/webedition/9780135425664/html/smells.html)

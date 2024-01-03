@@ -1,8 +1,20 @@
 ---
-layout: post
-title: Insult in Game
+layout: defualt
+title: Insults in Game
 parent: Life
 ---
+
+# Insults in Game
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ### generators
 - https://www.rappad.co/insult-generator
 

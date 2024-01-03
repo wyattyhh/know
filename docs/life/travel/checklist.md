@@ -4,13 +4,17 @@ title: Checklist
 nav_order: 1
 parent: Travel
 ---
-**Table of Contents**
-1. [行前准备](#%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87)
-1. [背包](#%E8%83%8C%E5%8C%85)
-1. [登机箱](#%E7%99%BB%E6%9C%BA%E7%AE%B1)
-	1. [电子收纳包](#%E7%94%B5%E5%AD%90%E6%94%B6%E7%BA%B3%E5%8C%85)
-	1. [洗漱包](#%E6%B4%97%E6%BC%B1%E5%8C%85)
-1. [行李箱](#%E8%A1%8C%E6%9D%8E%E7%AE%B1)
+
+# 
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Want to go
 - [ ] PARADISE BORACAY PHILIPPINES
