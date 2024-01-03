@@ -18,6 +18,10 @@ Staging hunk by hunk. ( one file can be staged separate)
 ```
 git add -p
 ```
+Stage certain type of file.
+```
+git add *.js
+```
 Add all changes and commit with message.
 ```
 git commit -am "commit message"

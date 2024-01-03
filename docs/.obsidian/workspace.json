@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/dev-notes.md",
+                "file": "dev/git.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/dev-notes.md",
+                "file": "dev/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/dev-notes.md",
+                "file": "dev/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/dev-notes.md"
+                "file": "dev/git.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "16d715fba820c01c",
   "lastOpenFiles": [
+    "dev/dev-notes.md",
     "book/ydnjs2.md",
     "dev/git.md",
     "life/travel/japen-1.md",
-    "dev/dev-notes.md",
     "dev/dev.md",
     "life/insult-in-game.md",
     "life/travel/travel.md",
