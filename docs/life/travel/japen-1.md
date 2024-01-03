@@ -1,7 +1,7 @@
 ---
 layout: default
 tags: [japen, travel]
-parent: Life
+parent: Travel
 Titile: Japen 1
 ---
 

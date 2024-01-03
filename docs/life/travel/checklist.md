@@ -2,7 +2,7 @@
 layout: default
 title: Checklist
 nav_order: 1
-parent: Life
+parent: Travel
 ---
 **Table of Contents**
 1. [行前准备](#%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87)
