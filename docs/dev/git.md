@@ -22,6 +22,10 @@ Stage certain type of file.
 ```
 git add *.js
 ```
+Stage the modified and deleted files (leave untracked files)
+```
+git add -u
+```
 Add all changes and commit with message.
 ```
 git commit -am "commit message"
