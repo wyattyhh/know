@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/git.md",
+                "file": "life/car-detailing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/git.md",
+                "file": "life/car-detailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/git.md",
+                "file": "life/car-detailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/git.md"
+                "file": "life/car-detailing.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "16d715fba820c01c",
   "lastOpenFiles": [
+    "dev/git.md",
+    "life/car-detailing.md",
     "dev/dev.md",
     "life/insult-in-game.md",
-    "dev/git.md",
     "dev/dev-notes.md",
     "book/ydnjs2.md",
     "life/travel/japen-1.md",
