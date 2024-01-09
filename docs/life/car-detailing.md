@@ -15,4 +15,6 @@ title:
 ---
 
 ### Products
-1. 
+1. Meguiars Hyper Wash: 1:30 PA
+2. Meguiars Gold Glass: 1:10 PA
+3. 
