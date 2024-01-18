@@ -46,6 +46,10 @@ Discard all unstaged changes
 ```
 git resotre .
 ```
+Switch to previous branch
+```
+git switch - // is a shorthand for git switch @{-1}
+```
 Stash
 ```
 git stash
