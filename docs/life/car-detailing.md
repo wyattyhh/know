@@ -1,6 +1,7 @@
 ---
 layout: default
-title:
+title: CarDetailing
+parent: Life
 ---
 
 # Car Detailing

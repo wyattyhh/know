@@ -23,9 +23,11 @@
             "id": "d5d54a8a92d9cf17",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "life/travel/japen-1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:travel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/car-detailing.md",
+                "file": "life/travel/japen-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/car-detailing.md",
+                "file": "life/travel/japen-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/car-detailing.md"
+                "file": "life/travel/japen-1.md"
               }
             }
           }
@@ -157,18 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d54a8a92d9cf17",
+  "active": "cb2c538c507a68e0",
   "lastOpenFiles": [
-    "dev/git.md",
-    "life/car-detailing.md",
-    "dev/dev.md",
-    "life/insult-in-game.md",
-    "dev/dev-notes.md",
-    "book/ydnjs2.md",
+    "life/travel/checklist.md",
     "life/travel/japen-1.md",
     "life/travel/travel.md",
+    "life/car-detailing.md",
     "life/life.md",
-    "life/travel/checklist.md",
+    "life/insult-in-game.md",
+    "dev/git.md",
+    "dev/dev.md",
+    "dev/dev-notes.md",
+    "book/ydnjs2.md",
     "template/default.md",
     "book/refactoring.md",
     "template"
