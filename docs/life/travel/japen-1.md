@@ -1,9 +1,11 @@
 ---
 layout: default
-tags: [japen, travel]
+tags:
+  - japen
+  - travel
 parent: Travel
 grand_parent: Life
-Titile: Japen 1
+titile: Japen 1
 ---
 
 # 日本旅行计划

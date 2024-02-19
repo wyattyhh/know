@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/travel/japen-1.md",
+                "file": "life/travel/checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:travel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/travel/japen-1.md",
+                "file": "life/travel/checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/travel/japen-1.md",
+                "file": "life/travel/checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/travel/japen-1.md"
+                "file": "life/travel/checklist.md"
               }
             }
           }
@@ -160,20 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb2c538c507a68e0",
+  "active": "d5d54a8a92d9cf17",
   "lastOpenFiles": [
-    "life/travel/checklist.md",
     "life/travel/japen-1.md",
-    "life/travel/travel.md",
-    "life/car-detailing.md",
+    "life/travel/checklist.md",
+    "book/book.md",
     "life/life.md",
-    "life/insult-in-game.md",
+    "book/ydnjs2.md",
+    "book/refactoring.md",
+    "dev/dev-notes.md",
     "dev/git.md",
     "dev/dev.md",
-    "dev/dev-notes.md",
-    "book/ydnjs2.md",
+    "life/travel/travel.md",
+    "life/car-detailing.md",
+    "life/insult-in-game.md",
     "template/default.md",
-    "book/refactoring.md",
     "template"
   ]
 }
