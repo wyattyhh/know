@@ -5,7 +5,6 @@ parent: Travel
 grand_parent: Life
 ---
 
-# 
 {: .no_toc }
 
 ## Table of contents

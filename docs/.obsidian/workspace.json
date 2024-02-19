@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/travel/checklist.md",
+                "file": "life/travel/japen-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/travel/checklist.md",
+                "file": "life/travel/japen-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/travel/checklist.md",
+                "file": "life/travel/japen-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/travel/checklist.md"
+                "file": "life/travel/japen-1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "d5d54a8a92d9cf17",
   "lastOpenFiles": [
-    "life/travel/japen-1.md",
     "life/travel/checklist.md",
+    "life/travel/japen-1.md",
     "book/book.md",
     "life/life.md",
     "book/ydnjs2.md",
