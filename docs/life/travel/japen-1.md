@@ -5,7 +5,7 @@ tags:
   - travel
 parent: Travel
 grand_parent: Life
-titile: Japen 1
+title: Japen 1
 ---
 
 # 日本旅行计划
