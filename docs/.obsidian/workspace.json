@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/default.md",
+                "file": "book/ydnjs2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f44464e8aeb1250",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -109,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/default.md",
+                "file": "book/ydnjs2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/default.md",
+                "file": "book/ydnjs2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/default.md"
+                "file": "book/ydnjs2.md"
               }
             }
           }
@@ -170,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f44464e8aeb1250",
+  "active": "d5d54a8a92d9cf17",
   "lastOpenFiles": [
+    "template/default.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "book/book.md",
@@ -184,7 +176,6 @@
     "life/travel/travel.md",
     "life/car-detailing.md",
     "life/insult-in-game.md",
-    "template/default.md",
     "template"
   ]
 }

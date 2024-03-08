@@ -17,6 +17,7 @@ parent: Book
 
 ## Get Started
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
+
 ### What's in an Interpretation 
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#whats-in-an-interpretation)
 JS is a compiled language.
