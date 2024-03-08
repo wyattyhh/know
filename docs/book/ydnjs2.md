@@ -23,7 +23,12 @@ parent: Book
 JS is a compiled language.
 
 ### C2: Surveying JS
-####
+#### Each File is a Program
+
+Each .js standalone file is its own separate program.
+
+Reason: 
+1. 
 ## Scope & Closures
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
