@@ -25,7 +25,7 @@ JS is a compiled language.
 ### C2: Surveying JS
 #### Each File is a Program
 
-Each .js standalone file is its own separate program. Because JS handles error file by file, one failed fail won't effect other files being operated
+Each .js standalone file is its own separate program. Because JS handles error file by file, one failed file won't effect the operation of other files.
 ## Scope & Closures
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
