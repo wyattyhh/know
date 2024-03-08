@@ -22,7 +22,8 @@ parent: Book
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#whats-in-an-interpretation)
 JS is a compiled language.
 
-
+### C2: Surveying JS
+####
 ## Scope & Closures
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
