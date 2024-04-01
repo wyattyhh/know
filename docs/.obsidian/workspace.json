@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e206d7f2da5e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d54a8a92d9cf17",
+  "active": "9e206d7f2da5e4cc",
   "lastOpenFiles": [
     "template/default.md",
     "life/travel/japen-1.md",
