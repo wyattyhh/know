@@ -25,19 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/dev-notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e206d7f2da5e4cc",
+            "id": "2601a04c71302063",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "dev/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/ydnjs2.md"
+                "file": "dev/Untitled.md"
               }
             }
           }
@@ -171,18 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e206d7f2da5e4cc",
+  "active": "7a60d25ebd4c9d70",
   "lastOpenFiles": [
+    "dev/dev-notes.md",
+    "dev/Untitled.md",
+    "dev/dev.md",
+    "dev/git.md",
+    "book/ydnjs2.md",
     "template/default.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "book/book.md",
     "life/life.md",
-    "book/ydnjs2.md",
     "book/refactoring.md",
-    "dev/dev-notes.md",
-    "dev/git.md",
-    "dev/dev.md",
     "life/travel/travel.md",
     "life/car-detailing.md",
     "life/insult-in-game.md",
