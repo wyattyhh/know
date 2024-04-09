@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/Untitled.md",
+                "file": "dev/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Untitled.md",
+                "file": "dev/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/Untitled.md",
+                "file": "dev/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/Untitled.md"
+                "file": "dev/JavaScript.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a60d25ebd4c9d70",
+  "active": "2601a04c71302063",
   "lastOpenFiles": [
     "dev/dev-notes.md",
-    "dev/Untitled.md",
+    "dev/JavaScript.md",
     "dev/dev.md",
     "dev/git.md",
     "book/ydnjs2.md",
