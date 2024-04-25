@@ -22,4 +22,4 @@ parent: Life
 ### Mango Green Tea
 - Mango (half)
 - Green Tea (200 - 300ml)
-- Syrup (30ml)
+- Syrup (15ml)
