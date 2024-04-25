@@ -14,7 +14,7 @@ parent: Life
 
 ---
 ## Normal
-### Gin Tonic 1
+### Gin Tonic Basic
 - Gin (1/4)
 - Tonic (3/4)
 
