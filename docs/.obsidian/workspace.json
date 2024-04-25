@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/JavaScript.md",
+                "file": "life/cocktail.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/JavaScript.md",
+                "file": "life/cocktail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/JavaScript.md",
+                "file": "life/cocktail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/JavaScript.md"
+                "file": "life/cocktail.md"
               }
             }
           }
@@ -173,8 +173,12 @@
   },
   "active": "2601a04c71302063",
   "lastOpenFiles": [
-    "dev/dev-notes.md",
+    "life/car-detailing.md",
+    "life/life.md",
+    "life/cocktail.md",
+    "life/insult-in-game.md",
     "dev/JavaScript.md",
+    "dev/dev-notes.md",
     "dev/dev.md",
     "dev/git.md",
     "book/ydnjs2.md",
@@ -182,11 +186,8 @@
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "book/book.md",
-    "life/life.md",
     "book/refactoring.md",
     "life/travel/travel.md",
-    "life/car-detailing.md",
-    "life/insult-in-game.md",
     "template"
   ]
 }
