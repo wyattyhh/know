@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2714acf22c97db6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2601a04c71302063",
+  "active": "2714acf22c97db6e",
   "lastOpenFiles": [
     "life/car-detailing.md",
     "life/life.md",
