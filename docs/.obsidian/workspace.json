@@ -47,9 +47,11 @@
             "id": "2714acf22c97db6e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "dev/Website.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/cocktail.md",
+                "file": "dev/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/cocktail.md",
+                "file": "dev/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/cocktail.md"
+                "file": "dev/Website.md"
               }
             }
           }
@@ -183,14 +185,15 @@
   },
   "active": "2714acf22c97db6e",
   "lastOpenFiles": [
+    "dev/dev-notes.md",
+    "dev/git.md",
+    "dev/JavaScript.md",
+    "dev/dev.md",
+    "dev/Website.md",
     "life/car-detailing.md",
     "life/life.md",
     "life/cocktail.md",
     "life/insult-in-game.md",
-    "dev/JavaScript.md",
-    "dev/dev-notes.md",
-    "dev/dev.md",
-    "dev/git.md",
     "book/ydnjs2.md",
     "template/default.md",
     "life/travel/japen-1.md",
