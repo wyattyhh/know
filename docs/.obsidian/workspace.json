@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "363ffd8396dbbfdd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2714acf22c97db6e",
+  "active": "363ffd8396dbbfdd",
   "lastOpenFiles": [
     "dev/dev-notes.md",
     "dev/dev.md",
