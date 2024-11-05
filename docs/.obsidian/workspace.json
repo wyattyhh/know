@@ -59,9 +59,11 @@
             "id": "363ffd8396dbbfdd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "dev/dev-notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/react-note.md",
+                "file": "dev/dev-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/react-note.md",
+                "file": "dev/dev-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/react-note.md"
+                "file": "dev/dev-notes.md"
               }
             }
           }
@@ -195,8 +197,8 @@
   },
   "active": "363ffd8396dbbfdd",
   "lastOpenFiles": [
-    "dev/dev-notes.md",
     "dev/dev.md",
+    "dev/dev-notes.md",
     "dev/react-note.md",
     "dev/JavaScript.md",
     "dev/Website.md",
