@@ -81,12 +81,14 @@
             "id": "9105547863cab001",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "book/ydnjs2.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "ydnjs2"
             }
           }
         ],
@@ -146,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -162,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/car-detailing.md",
+                "file": "book/ydnjs2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for car-detailing"
+              "title": "Backlinks for ydnjs2"
             }
           },
           {
@@ -181,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/car-detailing.md",
+                "file": "book/ydnjs2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from car-detailing"
+              "title": "Outgoing links from ydnjs2"
             }
           },
           {
@@ -208,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/car-detailing.md"
+                "file": "book/ydnjs2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of car-detailing"
+              "title": "Outline of ydnjs2"
             }
           }
         ]
