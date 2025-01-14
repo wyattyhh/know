@@ -15,7 +15,7 @@ parent: Book
 
 ---
 
-## Get Started
+## Get Started,
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 ### C1: What Is JavaScript?
 #### What's in an Interpretation 
