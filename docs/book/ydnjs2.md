@@ -30,8 +30,7 @@ Each .js standalone file is its own separate program. Because JS **handles error
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 ### Ch1 What's the Scope?
 > But since these functions hold and access variables, they maintain their **original scope** no matter where in the program the functions are eventually executed. This is called **closure**.
-
-
+#### Proving
 
 ## Objects & Classes
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
