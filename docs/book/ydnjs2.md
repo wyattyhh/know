@@ -65,8 +65,9 @@ function saySomething(greeting,greeting) {
     console.log(greeting);
 }
 ```
-"Howdy" is not printed. This Duplicate Parameter error only occurred in strict-mode (`"use strict"` line). The JS engine know that the function is in strict-mode and throw the error before printing log 
-
+"Howdy" is not printed. This Duplicate Parameter error only occurred in strict-mode (`"use strict"` line). 
+The JS engine know that the function is in strict-mode and throw the error before printing log.
+>Again, the only reasonable explanation is that the code must first be _fully_ parsed before any execution occurs.
 ---
 
 ## Objects & Classes
