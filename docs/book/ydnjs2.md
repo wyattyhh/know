@@ -41,8 +41,31 @@ Each .js standalone file is its own separate program. Because JS **handles error
 ### Ch1 What's the Scope?
 > But since these functions hold and access variables, they maintain their **original scope** no matter where in the program the functions are eventually executed. This is called **closure**.
 ###### Proving JS contains two phases: 1. parsing/compilation 2. execution
+**Syntax Errors from the Start**
+```js
+var greeting = "Hello";
 
+console.log(greeting);
 
+greeting = ."Hi";
+// SyntaxError: unexpected token .
+```
+"Hello" is not printed.
+
+**Early Errors**
+```js
+console.log("Howdy");
+
+saySomething("Hello","Hi");
+// Uncaught SyntaxError: Duplicate parameter name not
+// allowed in this context
+
+function saySomething(greeting,greeting) {
+    "use strict";
+    console.log(greeting);
+}
+```
+"Howdy" is not printed.
 
 ---
 
