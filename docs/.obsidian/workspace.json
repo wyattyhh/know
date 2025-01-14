@@ -231,11 +231,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9105547863cab001",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-14 15.09.57.excalidraw.md",
+    "book/ydnjs2.md",
+    "Excalidraw",
     "dev/dev.md",
     "dev/dev-notes.md",
     "dev/react-note.md",
@@ -246,7 +250,6 @@
     "life/life.md",
     "life/cocktail.md",
     "life/insult-in-game.md",
-    "book/ydnjs2.md",
     "template/default.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",

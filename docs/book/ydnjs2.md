@@ -5,13 +5,20 @@ parent: Book
 ---
 
 # You Don't Know JS Edition 2
-{: .no_toc }
 
 ## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+- [[#Get Started,|Get Started,]]
+	- [[#Get Started,#C1: What Is JavaScript?|C1: What Is JavaScript?]]
+		- [[#C1: What Is JavaScript?#What's in an Interpretation|What's in an Interpretation]]
+	- [[#Get Started,#C2: Surveying JS|C2: Surveying JS]]
+		- [[#C2: Surveying JS#Each File is a Program|Each File is a Program]]
+- [[#Scope & Closures|Scope & Closures]]
+	- [[#Scope & Closures#Ch1 What's the Scope?|Ch1 What's the Scope?]]
+		- [[#Ch1 What's the Scope?#Proving|Proving]]
+- [[#Objects & Classes|Objects & Classes]]
+- [[#Types & Grammar|Types & Grammar]]
+- [[#Sync & Async|Sync & Async]]
+- [[#ES.Next & Beyond|ES.Next & Beyond]]
 
 ---
 
@@ -26,19 +33,28 @@ JS is a compiled language.
 #### Each File is a Program
 
 Each .js standalone file is its own separate program. Because JS **handles error** file by file, one failed file won't effect the operation of other files.
+
+---
+
 ## Scope & Closures
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 ### Ch1 What's the Scope?
 > But since these functions hold and access variables, they maintain their **original scope** no matter where in the program the functions are eventually executed. This is called **closure**.
-#### Proving
+###### Proving JS contains two phases: 1. parsing/compilation 2. execution
+
+
+
+---
 
 ## Objects & Classes
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
 
+---
 
 ## Types & Grammar
 [link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md)
 
+---
 
 ## Sync & Async
 
