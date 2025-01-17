@@ -70,7 +70,7 @@ The JS engine know that the function is in strict-mode and throw the error befor
 >Again, the only reasonable explanation is that the code must first be _fully_ parsed before any execution occurs.
 
 **Hoisting**
-              
+    
 
 
 ---
