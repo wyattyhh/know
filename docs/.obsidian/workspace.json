@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/Front-end.md",
+                "file": "dev/interview/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front-end"
+              "title": "index"
             }
           }
         ],
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Front-end.md",
+                "file": "dev/interview/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Front-end"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/Front-end.md",
+                "file": "dev/interview/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Front-end"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/Front-end.md"
+                "file": "dev/interview/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Front-end"
+              "title": "Outline of index"
             }
           }
         ]
@@ -236,8 +236,8 @@
   },
   "active": "9105547863cab001",
   "lastOpenFiles": [
-    "dev/interview/index.md",
     "dev/Front-end.md",
+    "dev/interview/index.md",
     "dev/interview",
     "dev/Untitled.md",
     "book/ydnjs2.md",
