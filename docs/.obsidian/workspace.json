@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/Front-end.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ydnjs2"
+              "title": "Front-end"
             }
           }
         ],
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/Front-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ydnjs2"
+              "title": "Backlinks for Front-end"
             }
           },
           {
@@ -184,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/ydnjs2.md",
+                "file": "dev/Front-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ydnjs2"
+              "title": "Outgoing links from Front-end"
             }
           },
           {
@@ -211,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/ydnjs2.md"
+                "file": "dev/Front-end.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ydnjs2"
+              "title": "Outline of Front-end"
             }
           }
         ]
@@ -237,8 +236,12 @@
   },
   "active": "9105547863cab001",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-14 15.09.57.excalidraw.md",
+    "dev/interview/index.md",
+    "dev/Front-end.md",
+    "dev/interview",
+    "dev/Untitled.md",
     "book/ydnjs2.md",
+    "Excalidraw/Drawing 2025-01-14 15.09.57.excalidraw.md",
     "Excalidraw",
     "dev/dev.md",
     "dev/dev-notes.md",
