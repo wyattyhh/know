@@ -3,7 +3,7 @@
 - 内容 Content, 内边距 Padding, 边框 Border, 外边距 Margin.
 - 标准盒模型 content-box VS IE盒模型 border-box (content + padding + border)
 ### BFC 块级格式化上下文
-独立的渲染区域, 内部元素不会影响外部.
+独立的渲染区域, 内部元素不会影响外部. 可以解决外边距折叠的问题.
 #### 如何触发BFC？
 
 - `overflow: hidden`（最常用）
