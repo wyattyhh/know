@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/interview/index.md",
+                "file": "dev/interview/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "notes"
             }
           }
         ],
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d4f62dc51376110c",
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/interview/index.md",
+                "file": "dev/interview/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -183,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/interview/index.md",
+                "file": "dev/interview/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -210,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/interview/index.md"
+                "file": "dev/interview/notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of notes"
             }
           }
         ]
@@ -236,28 +237,29 @@
   },
   "active": "9105547863cab001",
   "lastOpenFiles": [
-    "dev/Front-end.md",
     "dev/interview/index.md",
+    "dev/interview/notes.md",
+    "dev/dev-notes.md",
+    "book/refactoring.md",
+    "dev/JavaScript.md",
+    "dev/Front-end.md",
+    "dev/Website.md",
+    "dev/react-note.md",
+    "template/default.md",
+    "life/life.md",
+    "life/cocktail.md",
+    "life/insult-in-game.md",
+    "life/car-detailing.md",
     "dev/interview",
     "dev/Untitled.md",
     "book/ydnjs2.md",
     "Excalidraw/Drawing 2025-01-14 15.09.57.excalidraw.md",
     "Excalidraw",
     "dev/dev.md",
-    "dev/dev-notes.md",
-    "dev/react-note.md",
-    "dev/JavaScript.md",
-    "dev/Website.md",
     "dev/git.md",
-    "life/car-detailing.md",
-    "life/life.md",
-    "life/cocktail.md",
-    "life/insult-in-game.md",
-    "template/default.md",
     "life/travel/japen-1.md",
     "life/travel/checklist.md",
     "book/book.md",
-    "book/refactoring.md",
     "life/travel/travel.md",
     "template"
   ]
