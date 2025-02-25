@@ -116,5 +116,17 @@ JavaScript 单线程处理异步任务的方式。
 - **异步任务**：分为宏任务（`setTimeout`、`DOM事件`）和微任务（`Promise.then`、`queueMicrotask`）。
 - **执行顺序**：同步任务 → 所有微任务 → 一个宏任务 → 重复。
 ### Promise与Async/Await
+#### 1. Promise
+解决回调地狱, 用链式调用管理异步操作.
+```js
+// before
+setTimeout(()=>{
+	console.log('do something')
+}, 1000)
 
+// after
+new Promose
+```
+
+3. Async/Await
 
