@@ -177,3 +177,4 @@ window.addEventListener("scroll", throttle(function () {
   console.log("滚动事件触发"); // 每 200ms 最多执行一次
 }, 200));
 ```
+- **现代开发**：优先使用 `lodash` 等库的 `debounce/throttle` 函数（支持取消、立即执行等配置）。
