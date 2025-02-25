@@ -78,6 +78,38 @@ fn(); // 输出 2（count 未被销毁）
 - **普通函数**：默认指向调用者（如 `obj.method()` 的 `this` 是 `obj`），无调用者时非严格模式指向 `window`，严格模式为 `undefined`。
 - **箭头函数**：继承定义时的外层 `this`，不可更改。
 - **显式绑定**：`call`/`apply`/`bind` 可修改 `this`。
+#### 显式绑定的应用
+1. **改变回调函数的 `this` 指向**
+```js
+// 示例：React 类组件中绑定事件处理函数
+class Button extends React.Component {
+  constructor() {
+    super();
+    this.handleClick = this.handleClick.bind(this); // 绑定 this 为组件实例
+  }
+  handleClick() {
+    console.log(this); // 指向组件实例
+  }
+  render() {
+    return <button onClick={this.handleClick}>Click</button>;
+  }
+}
+
+// 替代方案：使用箭头函数自动绑定 this（现代开发更常用）
+handleClick = () => {
+  console.log(this); // 自动绑定 this
+};
+```
+2. 函数柯里化 (提前绑定部分函数)
+```js
+// 示例：预置第一个参数
+function multiply(a, b) {
+  return a * b;
+}
+const double = multiply.bind(null, 2); // 预置 a=2
+console.log(double(3)); // 6（等价于 multiply(2, 3)）
+```
+3. 现代开发中，优先用箭头函数或 Class 属性语法（如 React）替代 `bind`。
 ### Event Loop 时间循环
 JavaScript 单线程处理异步任务的方式。
 - **同步任务**：在主线程立即执行。
