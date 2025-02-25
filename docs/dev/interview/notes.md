@@ -140,3 +140,4 @@ async function init() {
 init()
 ```
 
+### 防抖 Debounce 与 节流 throttle
