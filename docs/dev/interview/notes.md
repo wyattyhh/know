@@ -159,3 +159,21 @@ input.addEventListener("input", debounce(function (e) {
   console.log("搜索:", e.target.value); // 延迟后执行
 }, 500));
 ```
+节流: 高频触发的事件, 固定频率执行
+```js
+function throttle(fn, interval) {
+  let lastTime = 0;
+  return function (...args) {
+    const now = Date.now();
+    if (now - lastTime >= interval) {
+      fn.apply(this, args); // 执行函数
+      lastTime = now; // 更新最后执行时间
+    }
+  };
+}
+
+// 使用示例
+window.addEventListener("scroll", throttle(function () {
+  console.log("滚动事件触发"); // 每 200ms 最多执行一次
+}, 200));
+```
