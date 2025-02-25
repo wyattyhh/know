@@ -35,8 +35,7 @@
               "title": "notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/interview/notes.md",
+                "file": "dev/interview/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notes"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/interview/notes.md",
+                "file": "dev/interview/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notes"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -155,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/interview/notes.md"
+                "file": "dev/interview/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of notes"
+              "title": "Outline of index"
             }
           }
         ]
@@ -179,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f23611a5f95b584",
+  "active": "9105547863cab001",
   "lastOpenFiles": [
-    "dev/interview/index.md",
     "dev/interview/notes.md",
+    "dev/interview/index.md",
     "dev/dev-notes.md",
     "book/refactoring.md",
     "dev/JavaScript.md",
