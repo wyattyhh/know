@@ -125,7 +125,7 @@ setTimeout(()=>{
 }, 1000)
 
 // after
-new Promose
+let p = new Promose
 ```
 
 3. Async/Await
