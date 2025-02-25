@@ -50,3 +50,7 @@
 5. 元素/伪元素选择器(如 `div`、`::before`): 权重1.
 规则: 权重叠加比较, 权重高的生效; 权重相同时, 后定义的生效.
 ### 伪类 vs 伪元素
+伪类(Pseudo-classes): 单冒号: , 选择元素的特定状态, 比如:hover, :focus, :first-child...
+伪元素(Pseudo-elements): 双冒号:: , 创建虚拟元素, 比如::before, ::after, ::first-line.
+### CSS动画
+通过@keyframes定义动画, 用animation属性应用动画.
