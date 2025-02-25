@@ -54,3 +54,34 @@
 伪元素(Pseudo-elements): 双冒号:: , 创建虚拟元素, 比如::before, ::after, ::first-line.
 ### CSS动画
 通过@keyframes定义动画, 用animation属性应用动画.
+
+## Javascript
+### 闭包 Closure
+闭包就是函数定义时, 可访问外部的作用域. 实际应用有: 封装私有变量, 延长变量生命周期.
+```js
+function outer() { 
+	let count = 0; 
+	return function inner() { 
+		count++; 
+		console.log(count); 
+		}; 
+	} 
+const fn = outer(); 
+fn(); // 输出 1 
+fn(); // 输出 2（count 未被销毁）
+```
+### 作用域链 Scope Chain
+函数在查找变量时, 从自身作用域逐级向外查找.
+### 原型链 Prototype Chain
+访问属性时，若对象自身不存在，则沿原型链向上查找，直到 `null`
+### this指向
+- **普通函数**：默认指向调用者（如 `obj.method()` 的 `this` 是 `obj`），无调用者时非严格模式指向 `window`，严格模式为 `undefined`。
+- **箭头函数**：继承定义时的外层 `this`，不可更改。
+- **显式绑定**：`call`/`apply`/`bind` 可修改 `this`。
+### Event Loop 时间循环
+JavaScript 单线程处理异步任务的方式。
+- **同步任务**：在主线程立即执行。
+- **异步任务**：分为宏任务（`setTimeout`、`DOM事件`）和微任务（`Promise.then`、`queueMicrotask`）。
+- **执行顺序**：同步任务 → 所有微任务 → 一个宏任务 → 重复。
+
+
