@@ -125,7 +125,9 @@ setTimeout(()=>{
 }, 1000)
 
 // after
-let p = new Promose
+let p = new Promise((resolve)=> {
+	setTimeout(resolve, 1000)
+})
 ```
 
 3. Async/Await
