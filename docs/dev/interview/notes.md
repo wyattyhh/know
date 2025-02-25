@@ -141,3 +141,21 @@ init()
 ```
 
 ### 防抖 Debounce 与 节流 throttle
+防抖: 高频触发的事件, 之执行最后一次.
+```js
+function debounce(fn, delay) {
+  let timer = null;
+  return function (...args) {
+    clearTimeout(timer); // 清除之前的计时
+    timer = setTimeout(() => {
+      fn.apply(this, args); // 保留 this 和参数
+    }, delay);
+  };
+}
+
+// 使用示例
+const input = document.querySelector("input");
+input.addEventListener("input", debounce(function (e) {
+  console.log("搜索:", e.target.value); // 延迟后执行
+}, 500));
+```
