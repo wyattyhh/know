@@ -115,5 +115,6 @@ JavaScript 单线程处理异步任务的方式。
 - **同步任务**：在主线程立即执行。
 - **异步任务**：分为宏任务（`setTimeout`、`DOM事件`）和微任务（`Promise.then`、`queueMicrotask`）。
 - **执行顺序**：同步任务 → 所有微任务 → 一个宏任务 → 重复。
+### Promise与Async/Await
 
 
