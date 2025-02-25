@@ -125,10 +125,18 @@ setTimeout(()=>{
 }, 1000)
 
 // after
-let p = new Promise((resolve)=> {
-	setTimeout(resolve, 1000)
+const delay = t => new Promise((resolve)=> {
+	setTimeout(resolve, t)
 })
+delay(1000).then(()=>console.log('do something'))
 ```
-
-3. Async/Await
+#### 2. Async/Await
+基于Promise的语法糖, 实现更简洁的语法.
+```js
+async function init() {
+	await delay(1000)
+	console.log('do something')
+}
+init()
+```
 
